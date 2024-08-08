@@ -1,3 +1,6 @@
 #include "test.h"
 
-test::test() {}
+test::test() {
+
+    qDebug() << "test1";
+}
